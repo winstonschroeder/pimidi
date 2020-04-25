@@ -24,6 +24,8 @@ avahi (or avahi-server + avahi-client)
 
 NOTE: avahi-daemon MUST be running for raveloxmidi to register its zeroconf name.
 
+NOTE: libasound2-dev is required for alsa support
+
 Building packages
 -----------------
 
